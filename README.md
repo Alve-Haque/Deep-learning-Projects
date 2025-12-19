@@ -1,58 +1,84 @@
-Deep-Learning-Projects
+# **Deep Learning Projects**
 
-Welcome to my curated collection of deep-learning projects, each crafted to demonstrate practical problem-solving, systematic experimentation, and real-world applications of modern neural network architectures. This repository brings together diverse work across computer vision, natural language processing, signal processing, and generative modeling—showcasing both foundational techniques and advanced deep-learning workflows.
+A comprehensive collection of my deep learning projects across computer vision, natural language processing, time-series modeling, and hybrid neural network architectures. Each project includes well-structured code, datasets (or links), model training scripts, evaluation metrics, and visualizations.
 
-Overview
 
-Inside, you will find implementations built using state-of-the-art frameworks such as TensorFlow and PyTorch, all organized with clear documentation, modular code structures, and reproducible experiment setups. Each project follows a consistent and well-defined workflow, including:
+##  **Overview**
 
-Data preprocessing
+This repository consolidates the deep learning work I have completed over time. It includes implementations of:
 
-Model development
+EEG/ECG signal classification
 
-Training pipelines
+Seizure detection with onset/offset estimation
 
-Evaluation metrics
+Image classification and segmentation
 
-Insights and analysis of results
+Text classification using sequence and transformer models
 
-Key Highlights
-Computer Vision
+Time-series forecasting
 
-CNNs, ResNets, and custom architectures
+Generative modeling (GANs, VAEs)
 
-Image-classification and image-segmentation tasks
+Experimental architectures and ablation studies
 
-Natural Language Processing
+The goal of this repository is to provide high-quality, reproducible, and modular deep learning solutions.
 
-Transformer-based architectures
+## **Project Portfolio**
+**1. EEG/ECG Signal Classification**
 
-Text-classification, embeddings, and sequence-modeling workflows
+Models: CNN, LSTM, CNN-Transformer hybrid
 
-Time-Series & Signal Processing
+Tasks: Seizure vs. non-seizure classification, heartbeat classification
 
-RNNs, LSTMs, and hybrid architectures
+Features: Signal preprocessing, spectrograms, onset/offset detection
 
-Applications to EEG, ECG, and other real-world signal datasets
+**2. Image Classification & Segmentation**
 
-Generative Deep Learning
+Datasets: MNIST, CIFAR, custom datasets
 
-GANs and VAEs
+Models: ResNet, EfficientNet, U-Net
 
-Creative generative tasks and representation-learning methodologies
+Features: Augmentation, Grad-CAM, training logs
 
-Research-Inspired Workflows
+**3. NLP Text Classification**
 
-Experiment-driven methodologies
+Models: BiLSTM, Attention Networks, BERT-based Transformers
 
-Visualizations, performance analyses, and detailed reasoning throughout
+Tasks: Sentiment analysis, topic classification
 
-Purpose
+Features: Tokenizers, confusion matrices, explainable attention
 
-This repository serves as a comprehensive reference for students, practitioners, and researchers seeking to understand, apply, and extend deep-learning methodologies. The goal is to provide clean, readable code paired with clear, structured explanations—making complex ideas more approachable while maintaining technical depth.
+**4. Time-Series Forecasting**
 
-Ongoing Development
+Models: LSTM, GRU, CNNs
 
-This space will continue to evolve with new experiments, refined workflows, and deeper insights as I progress in my deep-learning journey. Contributions, suggestions, and discussions are always welcome.
+Tasks: Multivariate forecasting
 
-Explore the projects, learn from the implementations, and feel free to build upon them.
+Features: Sliding windows, evaluation dashboards
+
+**5. Generative Models**
+
+Models: GAN, VAE
+
+Tasks: Image generation, latent space exploration
+
+Features: Sample outputs, loss curves
+
+**6. Experimental Deep Learning Projects**
+
+Hyperparameter experiments
+
+Optimizer comparisons
+
+Regularization and dropout studies
+
+## **Tech Stack**
+
+## **Languages:**
+Python
+
+## **Deep Learning Libraries:**
+PyTorch, TensorFlow / Keras
+
+## **Supporting Tools:**
+NumPy, pandas, scikit-learn, SciPy, Matplotlib, seaborn, OpenCV, TensorBoard, Weights & Biases

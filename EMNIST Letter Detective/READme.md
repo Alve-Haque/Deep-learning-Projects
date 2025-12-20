@@ -9,6 +9,7 @@ The notebook **EMNIST Letter Detective.ipynb** includes data preprocessing, CNN 
 - CNN-based classification model
 - Training, visualization, and testing all in one notebook
 
+![EMNIST Letter Detective](Letter-Detective.png)
 
 
 

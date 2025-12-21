@@ -46,3 +46,4 @@ dataset creation, transformations, and efficient data loaders.
 -   Integrating Dataset and DataLoader components
 -   Supplying model-ready batches efficiently
 -   Producing a clean, extensible, and production-ready pipeline
+![Building a Robust Data Pipeline](building_data_pipeline.png)

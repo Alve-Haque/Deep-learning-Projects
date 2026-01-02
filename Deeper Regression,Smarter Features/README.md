@@ -16,6 +16,7 @@ The project demonstrates how thoughtful feature engineering combined with deep l
 - It consists primarily of numerical features suitable for regression tasks.
 - The target variable is continuous.
 - Data quality issues such as missing values or inconsistencies are handled during preprocessing.
+![Raw Data](Rawdata.png)
 
 ### Data Preprocessing Includes
 - Handling missing values
@@ -23,6 +24,7 @@ The project demonstrates how thoughtful feature engineering combined with deep l
 - Feature scaling and normalization to stabilize training
 
 ---
+
 
 ## 🎯 Project Objective
 
@@ -70,6 +72,7 @@ These steps help improve:
 - Model convergence speed
 - Numerical stability during training
 - Overall predictive accuracy
+![Final Data](Finaldata.png)
 
 ---
 
@@ -100,6 +103,7 @@ The training process ensures the model learns meaningful patterns without memori
 ## 📈 Results and Predictions
 
 After training, the model is evaluated on unseen test data.
+![Last Data](lastdata.png)
 
 Evaluation includes:
 - Comparison of actual vs predicted values
@@ -163,13 +167,11 @@ Deep Regression, Smart Features.ipynb
 
 ---
 
-## 👤 Author
+  
 
-**Your Name**  
-Machine Learning & Deep Learning Enthusiast  
-
-- GitHub: Add your profile link  
-- LinkedIn: Add your profile link  
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Injamamul%20Haque%20Alve-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/injamamul-haque-alve-8b7306235/)
+  
 
 ---
 

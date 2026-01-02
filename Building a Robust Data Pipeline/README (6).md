@@ -4,6 +4,7 @@ A well-structured, scalable, and efficient **data pipeline** is the backbone of 
 This project demonstrates how to design and implement a **robust end-to-end data pipeline** using Python and PyTorch, from raw data ingestion to batched data loading for model training.
 
 ---
+![Building a Robust Data Pipeline](building_data_pipeline.png)
 
 ## 📌 Project Overview
 
@@ -59,15 +60,6 @@ Model Training / Evaluation
 
 ---
 
-## 📂 Project Structure
-
-```
-📦 Building-a-Robust-Data-Pipeline
- ┣ 📜 Building a Robust Data Pipeline.ipynb
- ┣ 📜 README.md
- ┗ 📂 data/
-    ┗ 📄 dataset files
-```
 
 ---
 
@@ -129,15 +121,5 @@ Contributions, suggestions, and improvements are welcome.
 
 ---
 
-## 📄 License
-
-This project is released for **educational and research purposes**.  
-You are free to use, modify, and extend it with proper attribution.
-
----
-
-## ⭐ Acknowledgment
-
-This project was developed to demonstrate **practical machine learning engineering skills**, with a focus on clean data handling and pipeline design.
 
 If you find this project useful, consider giving it a ⭐ on GitHub.

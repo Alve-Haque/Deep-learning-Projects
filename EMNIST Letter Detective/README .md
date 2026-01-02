@@ -2,7 +2,6 @@
 ### Handwritten Alphabet Recognition using Deep Learning
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -86,9 +85,9 @@ EMNIST Letter Detective.ipynb
 
 ---
 
-## 👤 Author
 
-Your Name  
-GitHub: https://github.com/your-username  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Injamamul%20Haque%20Alve-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/injamamul-haque-alve-8b7306235/)
+ 
 
 ⭐ Star this repo if you like it!

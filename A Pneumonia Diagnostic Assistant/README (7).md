@@ -34,6 +34,9 @@ This project focuses on building a **scalable, reusable, and interpretable basel
 
 ### 1️⃣ Data Preparation
 - Chest X-ray images split into **Train / Validation / Test** sets
+
+![Chest X-Ray Sample](images/image1.png)
+
 - Image preprocessing:
   - Resizing to ResNet input dimensions
   - Normalization using ImageNet statistics
@@ -56,24 +59,17 @@ This project focuses on building a **scalable, reusable, and interpretable basel
 - Generates predictions with confidence scores
 - Visualizes predictions alongside original X-ray images
 
+![Chest X-Ray Sample](images/image2.png)
+
+![Chest X-Ray Sample](images/image3.png)
+
 ---
 
 ## 📊 Results
 - Transfer learning significantly reduced training time
 - Stable convergence and strong generalization on unseen data
-
----
-
-## 🗂️ Project Structure
-```
-├── C2M4_Assignment.ipynb
-├── resnet18_chest_xray_classifier_weights.pth
-├── data/
-│   ├── train/
-│   ├── val/
-│   └── test/
-├── README.md
-```
+## 🖼️ Sample Chest X-Ray Images
+![Chest X-Ray Sample](images/image4.png)
 
 ---
 
@@ -82,7 +78,7 @@ This project focuses on building a **scalable, reusable, and interpretable basel
 git clone https://github.com/your-username/pneumonia-xray-classification.git
 cd pneumonia-xray-classification
 pip install -r requirements.txt
-jupyter notebook C2M4_Assignment.ipynb
+jupyter notebook Pneumonia Diagnostic Assistant.ipynb
 ```
 
 ---
@@ -94,5 +90,4 @@ jupyter notebook C2M4_Assignment.ipynb
 
 ---
 
-## ⚠️ Disclaimer
-For **educational and research purposes only**. Not for clinical use.
+

@@ -71,6 +71,14 @@ Translated Output
 - Encoder–decoder attention
 - Feed-forward networks
 
+
+
+
+![Project Image 1](images/image1.png)
+
+
+
+
 ---
 
 ## ⚙️ Training Pipeline
@@ -80,6 +88,14 @@ Translated Output
 - **Strategy:** Teacher forcing
 - **Features:** Attention masks, batching, loss tracking
 
+
+
+
+![Project Image 2](images/image2.png)
+
+
+
+
 ---
 
 ## 📈 Results
@@ -87,6 +103,10 @@ Translated Output
 - Stable training convergence
 - Meaningful translated outputs
 - Effective attention alignment
+
+
+![Project Image 3](images/image3.png)
+
 
 ---
 

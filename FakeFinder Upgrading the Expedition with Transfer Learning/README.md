@@ -88,13 +88,4 @@ jupyter notebook C2M2_Assignment.ipynb
 
 ---
 
-## 👤 Author
 
-**Your Name**  
-C2M2 – Deep Learning Assignment  
-
----
-
-## 📜 License
-
-For academic and educational use only.

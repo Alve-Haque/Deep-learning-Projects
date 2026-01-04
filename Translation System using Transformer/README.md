@@ -129,6 +129,4 @@ jupyter notebook "Translation System using Transformer.ipynb"
 
 ---
 
-## 🏁 Conclusion
 
-This project presents a complete and professional implementation of a Transformer-based translation system, forming a solid foundation for advanced NLP applications.

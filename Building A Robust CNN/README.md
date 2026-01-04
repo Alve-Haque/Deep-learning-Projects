@@ -48,6 +48,8 @@ Key techniques used:
   - Random rotations
 - Separate transformations for training (augmented) and validation (non-augmented)
 
+![Model Results](images/raw.png)
+
 ---
 
 ### 2️⃣ Modular CNN Architecture
@@ -89,6 +91,8 @@ Key features:
 - Improved validation accuracy compared to a baseline CNN
 - Reduced gap between training and validation performance
 - Stable convergence behavior
+
+
 
 ---
 

@@ -74,7 +74,7 @@ This repository contains a complete **end-to-end pipeline**, including data prep
 
 ```bash
 pip install torch torchvision optuna numpy matplotlib
-jupyter notebook C2M2_Assignment.ipynb
+jupyter notebook FakeFinder with Transfer Learning.ipynb
 ```
 
 ---

@@ -21,18 +21,6 @@ This repository contains a complete **end-to-end pipeline**, including data prep
 - Optimize hyperparameters using Optuna  
 - Achieve strong generalization on unseen test data  
 
----
-
-## 🗂️ Repository Structure
-
-```
-├── C2M2_Assignment.ipynb
-├── README.md
-└── data/
-    ├── train/
-    ├── val/
-    └── test/
-```
 
 ---
 
@@ -53,7 +41,7 @@ This repository contains a complete **end-to-end pipeline**, including data prep
 - Images loaded using `ImageFolder`
 - Dataset split into training, validation, and test sets
 - Pixel normalization applied
-
+![CNN Architecture](images/image1.png)
 ### 2. Data Augmentation
 - Random flips and rotations for training
 - Minimal transformations for validation/testing
@@ -75,11 +63,11 @@ This repository contains a complete **end-to-end pipeline**, including data prep
 - Batch size
 - Dropout rate
 - Number of filters
-
+![Training Performance](images/image2.png)
 ### 6. Final Testing
 - Retraining using best hyperparameters
 - Evaluation on test dataset
-
+![Final Evaluation](images/image3.png)
 ---
 
 ## ▶️ How to Run

@@ -12,6 +12,9 @@ The solution demonstrates **end-to-end deep learning expertise**, including:
 
 The project is suitable for **real-world e-commerce, recommendation systems, and visual search engines**.
 
+
+![MobileNet Backbone Architecture](images/image2.png)
+
 ---
 
 ## 🎯 Key Objectives
@@ -37,17 +40,6 @@ The project is suitable for **real-world e-commerce, recommendation systems, and
 
 ---
 
-## 🗂️ Project Structure
-```
-├── C3M1_Assignment.ipynb        # Main notebook (training, evaluation, retrieval)
-├── helper_utils.py             # Training loops & utility functions
-├── unittests.py                # Automated grading & validation
-├── data/                        # Fashion image dataset
-└── README.md                   # Project documentation
-```
-
----
-
 ## 🏗️ Model Architecture
 
 ### 🔹 MobileNet-Inspired Backbone
@@ -63,9 +55,14 @@ The classifier uses **Inverted Residual Blocks**, inspired by MobileNetV2:
 
 This design significantly **reduces parameter count and computation**, making it ideal for real-time applications.
 
+![MobileNet Backbone Architecture](images/image1.png)
+
 ---
 
 ## 🧪 Part 1: Fashion Image Classification
+
+
+![MobileNet Backbone Architecture](images/image3.png)
 
 ### ✔️ Data Pipeline
 - Images resized to **64×64**
@@ -107,6 +104,9 @@ Each training sample consists of:
 
 The network is trained using **Triplet Margin Loss** to enforce semantic distances.
 
+
+![MobileNet Backbone Architecture](images/image4.png)
+
 ---
 
 ### ✔️ Training Configuration
@@ -127,6 +127,9 @@ The network is trained using **Triplet Margin Loss** to enforce semantic distanc
 4. Retrieve **Top-K visually similar items**
 
 This simulates **real-world fashion search engines** used by e-commerce platforms.
+
+
+![MobileNet Backbone Architecture](images/image5.png)
 
 ---
 
@@ -150,19 +153,13 @@ This simulates **real-world fashion search engines** used by e-commerce platform
 ## 🧩 How to Run
 ```bash
 pip install torch torchvision numpy matplotlib
-jupyter notebook C3M1_Assignment.ipynb
+jupyter notebook Clothing Classification and Visual Search.ipynb
 ```
 
 ---
 
-## 📌 Notes for Recruiters
-This project demonstrates the ability to:
-- Translate academic concepts into practical systems
-- Build scalable and efficient deep learning models
-- Apply advanced techniques such as **Triplet Loss and Siamese Networks**
-- Write production-ready PyTorch code with testing and modular design
-
----
-
 ## 📬 Contact
-If you would like to discuss this project or explore collaboration opportunities, feel free to reach out.
+ 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Injamamul%20Haque%20Alve-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/injamamul-haque-alve-8b7306235/)
+

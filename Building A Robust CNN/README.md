@@ -93,6 +93,8 @@ Key features:
 - Stable convergence behavior
 
 
+![Model Results](images/result.png)
+
 
 ---
 
